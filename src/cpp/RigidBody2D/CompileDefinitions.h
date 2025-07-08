@@ -11,13 +11,13 @@ namespace CompileDefinitions
   constexpr char BuildMode[] = "Release";
 
   // C compiler used for this build
-  constexpr char CCompiler[] = "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc";
+  constexpr char CCompiler[] = "/usr/bin/cc";
 
   // C++ compiler used for this build
-  constexpr char CXXCompiler[] = "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++";
+  constexpr char CXXCompiler[] = "/usr/bin/c++";
 
   // Date and time
-  constexpr char BuildDateTime[] = "2025-03-21 10:18:49";
+  constexpr char BuildDateTime[] = "2025-07-06 03:15:19";
 
 }
 
